@@ -1,0 +1,4 @@
+xor rax, rax
+mov rax, 0x1
+push rbx
+push 0x2
